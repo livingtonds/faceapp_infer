@@ -1,5 +1,0 @@
-numpy==1.24.3
-pandas==2.0.3
-opencv-python
-transformers==4.36.0
-timm==0.9.12
